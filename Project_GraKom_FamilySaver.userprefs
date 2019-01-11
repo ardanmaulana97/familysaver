@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\keyDestroy.cs">
+    <Files>
+      <File FileName="Assets\winGame.cs" Line="20" Column="26" />
+      <File FileName="Assets\Script\restartGame.cs" Line="36" Column="41" />
+      <File FileName="Assets\Script\playerHealth.cs" Line="107" Column="3" />
+      <File FileName="Assets\Script\enemyMovementController.cs" Line="26" Column="16" />
+      <File FileName="Assets\Script\cleaner.cs" Line="1" Column="1" />
+      <File FileName="Assets\spawnDoor.cs" Line="27" Column="4" />
+      <File FileName="Assets\Script\destroyMe.cs" Line="20" Column="1" />
+      <File FileName="Assets\Script\playerController.cs" Line="94" Column="2" />
+      <File FileName="Assets\keyDestroy.cs" Line="20" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
